@@ -1,4 +1,3 @@
-import react, { Component } from "react";
 import Menu from "../components/Menu";
 import Tetris from "../components/Tetris";
 import { useGameOver } from "../hooks/useGameOver";
